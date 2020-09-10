@@ -1,0 +1,21 @@
+{
+  "name": "retail-news",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "iconv-lite": "^0.6.2",
+    "json2xls": "^0.1.2",
+    "moment": "^2.27.0",
+    "promise": "^8.1.0",
+    "puppeteer": "^5.0.0"
+  }
+}
